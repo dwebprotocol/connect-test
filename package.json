@@ -1,7 +1,7 @@
 {
-  "name": "@hyperswarm/connect-test",
-  "version": "2.0.0",
-  "description": "Create connections with peers in the 'connect-test' topic (Demo)",
+  "name": "@dswarm/connect-test",
+  "version": "1.0.0",
+  "description": "Create connections with peers in the 'connect-test' topic",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
@@ -9,21 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hyperswarm/connect-test.git"
+    "url": "git+https://github.com/dwebprotocol/connect-test.git"
   },
   "keywords": [
-    "hyperswarm",
+    "dswarm",
     "test",
     "demo"
   ],
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/hyperswarm/connect-test/issues"
+    "url": "https://github.com/dwebprotocol/connect-test/issues"
   },
-  "homepage": "https://github.com/hyperswarm/connect-test#readme",
+  "homepage": "https://dwebx.org",
   "dependencies": {
     "figures": "^2.0.0",
-    "hyperswarm": "^2.11.1"
+    "dswarm": "^1.0.0"
   }
 }
