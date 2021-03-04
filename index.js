@@ -14,7 +14,7 @@ const k = crypto.createHash('sha256')
 
 console.log(figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star)
 console.log('  ' + figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star)
-console.log('dWeb Network Test')
+console.log('dWeb Connection Test')
 console.log('  ' + figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star)
 console.log(figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star, ' ', figures.star)
 console.log('')
